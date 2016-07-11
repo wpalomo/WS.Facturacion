@@ -1,0 +1,9 @@
+C:\Proyectos\PeajeMGO.Web\Errores\bin\Release\Errores.dll
+C:\Proyectos\PeajeMGO.Web\Errores\bin\Release\Errores.pdb
+C:\Proyectos\PeajeMGO.Web\Errores\bin\Release\Utilitarios.dll
+C:\Proyectos\PeajeMGO.Web\Errores\bin\Release\EntidadesSL.dll
+C:\Proyectos\PeajeMGO.Web\Errores\bin\Release\Utilitarios.pdb
+C:\Proyectos\PeajeMGO.Web\Errores\bin\Release\EntidadesSL.pdb
+C:\Proyectos\PeajeMGO.Web\Errores\obj\Release\Errores.csprojResolveAssemblyReference.cache
+C:\Proyectos\PeajeMGO.Web\Errores\obj\Release\Errores.dll
+C:\Proyectos\PeajeMGO.Web\Errores\obj\Release\Errores.pdb

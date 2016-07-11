@@ -1,0 +1,4 @@
+C:\Proyectos\PeajeMGO.Web\Entidades\bin\Release\Entidades.dll
+C:\Proyectos\PeajeMGO.Web\Entidades\bin\Release\Entidades.pdb
+C:\Proyectos\PeajeMGO.Web\Entidades\obj\Release\Entidades.dll
+C:\Proyectos\PeajeMGO.Web\Entidades\obj\Release\Entidades.pdb

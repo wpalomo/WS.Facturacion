@@ -1,0 +1,39 @@
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\Datos.dll
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\Datos.pdb
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\Entidades.dll
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\Errores.dll
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\Utilitarios.dll
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\EntidadesSL.dll
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\Entidades.pdb
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\Errores.pdb
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\Utilitarios.pdb
+C:\Proyectos\PeajeMGO.Web\Datos\bin\Debug\EntidadesSL.pdb
+C:\Proyectos\PeajeMGO.Web\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Proyectos\PeajeMGO.Web\Datos\obj\Debug\Datos.dll
+C:\Proyectos\PeajeMGO.Web\Datos\obj\Debug\Datos.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\obj\Debug\Datos.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\obj\Debug\Datos.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\Datos.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\Datos.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\Entidades.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\Errores.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\Utilitarios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\EntidadesSL.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\Entidades.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\Errores.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Datos\bin\Debug\EntidadesSL.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\obj\Debug\Datos.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\obj\Debug\Datos.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\Datos.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\Datos.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\Entidades.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\Errores.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\Utilitarios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\EntidadesSL.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\Entidades.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\Errores.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Datos\bin\Debug\EntidadesSL.pdb

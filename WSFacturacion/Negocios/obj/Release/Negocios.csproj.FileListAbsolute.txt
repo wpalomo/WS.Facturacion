@@ -1,0 +1,15 @@
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Negocios.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Negocios.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Datos.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Entidades.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Errores.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Utilitarios.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\EntidadesSL.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Datos.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Entidades.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Errores.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\Utilitarios.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Release\EntidadesSL.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Proyectos\PeajeMGO.Web\Negocios\obj\Release\Negocios.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\obj\Release\Negocios.pdb

@@ -1,0 +1,420 @@
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\EntidadesSL.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\System.Windows.Controls.Data.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\System.Windows.Data.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\EntidadesSL.pdb
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\de\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\es\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\it\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Proyectos\PeajeMGO.Web\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Proyectos\PeajeMGO.Web\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\EntidadesSL.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\System.Windows.Data.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\EntidadesSL.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Utilitarios\bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\EntidadesSL.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\System.Windows.Data.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\EntidadesSL.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Utilitarios\obj\Debug\Utilitarios.pdb

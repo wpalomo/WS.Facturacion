@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53A7D252-895F-4B68-88B2-FA859382FAF4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Telectronica.Peaje</RootNamespace>
+    <AssemblyName>Negocios</AssemblyName>
+    <SccProjectName>"%24/PeajeMGO.Web/Negocios", NBSMAAAA</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>MSSCCI:Microsoft Visual SourceSafe</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;COMPATIBLE_WIN32</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;COMPATIBLE_WIN32</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbandonoDeTrocoBs.cs" />
+    <Compile Include="AccionBS.cs" />
+    <Compile Include="AdministradoraTagsBs.cs" />
+    <Compile Include="AgrupacionDbBs.cs" />
+    <Compile Include="AlarmaRetiroBS.cs" />
+    <Compile Include="ArchivoBs.cs" />
+    <Compile Include="AuditoriaBs.cs" />
+    <Compile Include="CambiosBs.cs" />
+    <Compile Include="CategoriaBs.cs" />
+    <Compile Include="AutorizacionBs.cs" />
+    <Compile Include="CodAutorizacionElectronicaBs.cs" />
+    <Compile Include="CodigoAperturaBarreraBs.cs" />
+    <Compile Include="CodigoDeCancelacionBs.cs" />
+    <Compile Include="CodigoDeSimulacionBs.cs" />
+    <Compile Include="ComandoBs.cs" />
+    <Compile Include="ComentarioSupervisorBs.cs" />
+    <Compile Include="ConfigMaestroDeAlarmasBs.cs" />
+    <Compile Include="EmisoresTagBs.cs" />
+    <Compile Include="EstacionConfiguracionBs.cs" />
+    <Compile Include="EventoBs.cs" />
+    <Compile Include="ExentoBs.cs" />
+    <Compile Include="Facturacion\ChipBS.cs" />
+    <Compile Include="Facturacion\ClienteBS.cs" />
+    <Compile Include="Facturacion\ClienteFacturacionBs.cs" />
+    <Compile Include="Facturacion\FacturacionBs.cs" />
+    <Compile Include="Facturacion\MedioPagoBs.cs" />
+    <Compile Include="Facturacion\PrepagoBS.cs" />
+    <Compile Include="Facturacion\RptClienteBs.cs" />
+    <Compile Include="Facturacion\TagBS.cs" />
+    <Compile Include="Facturacion\ValePrepagoBS.cs" />
+    <Compile Include="FormaPagoBS.cs" />
+    <Compile Include="FormatoTicketBs.cs" />
+    <Compile Include="GestionConfiguracionBs.cs" />
+    <Compile Include="ConexionBs.cs" />
+    <Compile Include="ImagenBS.cs" />
+    <Compile Include="InfoEventoBS.cs" />
+    <Compile Include="InterfaceBS.cs" />
+    <Compile Include="LogActividadBS.cs" />
+    <Compile Include="MantenimientoBS.cs" />
+    <Compile Include="mdlGeneral.cs" />
+    <Compile Include="MensajeBS.cs" />
+    <Compile Include="Nivel2Bs.cs" />
+    <Compile Include="OSAsBs.cs" />
+    <Compile Include="PagoDiferidoBs.cs" />
+    <Compile Include="RangosTagBs.cs" />
+    <Compile Include="RptAuditoriaBs.cs" />
+    <Compile Include="RptEstadisticasBs.cs" />
+    <Compile Include="RptExoneradosBs.cs" />
+    <Compile Include="RptOSAsBs.cs" />
+    <Compile Include="RptPeajeBs.cs" />
+    <Compile Include="RptViolacionesBS.cs" />
+    <Compile Include="RptVISABs.cs" />
+    <Compile Include="StatusTratamientoBs.cs" />
+    <Compile Include="Tesoreria\TesoreriaBs.cs" />
+    <Compile Include="Tesoreria\ApropiacionBs.cs" />
+    <Compile Include="Tesoreria\FondoDeCambioBs.cs" />
+    <Compile Include="Tesoreria\RptRecargasYSobregirosBs.cs" />
+    <Compile Include="Tesoreria\RptComparativoTYRBs.cs" />
+    <Compile Include="Tesoreria\RptListadoDepositosBs.cs" />
+    <Compile Include="Tesoreria\RptListadoApropiacionesBs.cs" />
+    <Compile Include="Tesoreria\RptComprobantesBs.cs" />
+    <Compile Include="Tesoreria\DepositoBs.cs" />
+    <Compile Include="Tesoreria\MonedaBs.cs" />
+    <Compile Include="EstacionBs.cs" />
+    <Compile Include="PerfilBs.cs" />
+    <Compile Include="PermisosBs.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tesoreria\PartesBs.cs" />
+    <Compile Include="Tesoreria\RecuentoBs.cs" />
+    <Compile Include="Tesoreria\RendicionBs.cs" />
+    <Compile Include="Tesoreria\RptControlAuditoriaBs.cs" />
+    <Compile Include="Tesoreria\RptDetalleParteJornadaBs.cs" />
+    <Compile Include="Tesoreria\RptRecaudacionBs.cs" />
+    <Compile Include="TipoComprobanteBs.cs" />
+    <Compile Include="TipoCuponBs.cs" />
+    <Compile Include="TipoListaBs.cs" />
+    <Compile Include="UsuarioBs.cs" />
+    <Compile Include="TarifaBS.cs" />
+    <Compile Include="TipoDiaHoraBs.cs" />
+    <Compile Include="Validacion\AnomaliasBs.cs" />
+    <Compile Include="Validacion\AutorizacionPasoBs.cs" />
+    <Compile Include="Validacion\CancelacionVentaBs.cs" />
+    <Compile Include="Validacion\CancelaTransitoBs.cs" />
+    <Compile Include="Validacion\ClienteValidacionBs.cs" />
+    <Compile Include="Validacion\ConfiguracionValidacionBS.cs" />
+    <Compile Include="Validacion\DACsBs.cs" />
+    <Compile Include="Validacion\EventoValidacionBs.cs" />
+    <Compile Include="Validacion\JornadaBs.cs" />
+    <Compile Include="Validacion\MotivoRechazoBs.cs" />
+    <Compile Include="Validacion\ParteValidacionBs.cs" />
+    <Compile Include="Validacion\RptConciliacionVentasBS.cs" />
+    <Compile Include="Validacion\RptFallosPeajistaBS.cs" />
+    <Compile Include="Validacion\RptObservacionesCajeroBs.cs" />
+    <Compile Include="Validacion\RptTransitosBs.cs" />
+    <Compile Include="Validacion\SIPsBs.cs" />
+    <Compile Include="Validacion\TagManualBs.cs" />
+    <Compile Include="Validacion\TicketManualBs.cs" />
+    <Compile Include="Validacion\TransitoNormalBs.cs" />
+    <Compile Include="Validacion\ValClientesBs.cs" />
+    <Compile Include="Validacion\ValCuentasBs.cs" />
+    <Compile Include="Validacion\ValEstacionesBs.cs" />
+    <Compile Include="Validacion\ValExentoBs.cs" />
+    <Compile Include="Validacion\ValidacionBs.cs" />
+    <Compile Include="Validacion\ValPagoDiferidoBs.cs" />
+    <Compile Include="Validacion\ViolacionesBs.cs" />
+    <Compile Include="ViaBs.cs" />
+    <Compile Include="ViaInformacionBS.cs" />
+    <Compile Include="VideoBs.cs" />
+    <Compile Include="VISABs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{07829ADF-F634-40CD-8F1C-4F0C08187A22}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{221410F2-A91A-4A0D-8566-A17699F7201E}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Errores\Errores.csproj">
+      <Project>{13d948e7-2a42-4db9-8ad2-339eb7eb4494}</Project>
+      <Name>Errores</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitarios\Utilitarios.csproj">
+      <Project>{CB738AD2-022A-4FA7-A550-23EF70A775BF}</Project>
+      <Name>Utilitarios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{07829ADF-F634-40CD-8F1C-4F0C08187A22}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Telectronica.Peaje</RootNamespace>
+    <AssemblyName>Datos</AssemblyName>
+    <SccProjectName>"%24/PeajeMGO.Web/Datos", GYQMAAAA</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>MSSCCI:Microsoft Visual SourceSafe</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbandonoDeTrocoDt.cs" />
+    <Compile Include="AccionDT.cs" />
+    <Compile Include="AdministradoraTagsDt.cs" />
+    <Compile Include="AgrupacionDbDt.cs" />
+    <Compile Include="AlarmaRetiroDT.cs" />
+    <Compile Include="AuditoriaDt.cs" />
+    <Compile Include="CambiosDt.cs" />
+    <Compile Include="CategoriaDt.cs" />
+    <Compile Include="AutorizacionDt.cs" />
+    <Compile Include="CodAutorizacionElectronicaDt.cs" />
+    <Compile Include="CodigoAperturaBarreraDt.cs" />
+    <Compile Include="CodigoDeCancelacionDt.cs" />
+    <Compile Include="CodigoDeSimulacionDt.cs" />
+    <Compile Include="ComandoDt.cs" />
+    <Compile Include="ComentarioSupervisorDt.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="ConfigMaestroDeAlarmasDt.cs" />
+    <Compile Include="EjecucionSP.cs" />
+    <Compile Include="EmisoresTagDt.cs" />
+    <Compile Include="EstacionConfiguracionDT.cs" />
+    <Compile Include="EstacionDt.cs" />
+    <Compile Include="EventoDt.cs" />
+    <Compile Include="ExentoDt.cs" />
+    <Compile Include="Facturacion\ChipDT.cs" />
+    <Compile Include="Facturacion\ClienteDT.cs" />
+    <Compile Include="Facturacion\ClienteFacturacionDt.cs" />
+    <Compile Include="Facturacion\FacturacionDt.cs" />
+    <Compile Include="Facturacion\MedioPagoDt.cs" />
+    <Compile Include="Facturacion\PrepagoDT.cs" />
+    <Compile Include="Facturacion\RptClienteDt.cs" />
+    <Compile Include="Facturacion\TagDT.cs" />
+    <Compile Include="Facturacion\ValePrepagoDT.cs" />
+    <Compile Include="FormaPagoDt.cs" />
+    <Compile Include="FormatoTicketDt.cs" />
+    <Compile Include="GestionConfiguracionDt.cs" />
+    <Compile Include="InfoEventoDT.cs" />
+    <Compile Include="InterfaceDT.cs" />
+    <Compile Include="LogActividadDT.cs" />
+    <Compile Include="MantenimientoDT.cs" />
+    <Compile Include="MensajeDT.cs" />
+    <Compile Include="Nivel2Dt.cs" />
+    <Compile Include="OSAsDt.cs" />
+    <Compile Include="PagoDiferidoDt.cs" />
+    <Compile Include="RangosTagDt.cs" />
+    <Compile Include="RptAuditoriaDt.cs" />
+    <Compile Include="RptEstadisticasDt.cs" />
+    <Compile Include="RptExoneradosDt.cs" />
+    <Compile Include="RptOSAsDt.cs" />
+    <Compile Include="RptPeajeDt.cs" />
+    <Compile Include="RptViolacionesDt.cs" />
+    <Compile Include="RptVISADt.cs" />
+    <Compile Include="StatusTratamientoDt.cs" />
+    <Compile Include="Tesoreria\ApropiacionDt.cs" />
+    <Compile Include="Tesoreria\FondoDeCambioDt.cs" />
+    <Compile Include="Tesoreria\RptRecargasYSobregirosDt.cs" />
+    <Compile Include="Tesoreria\RptComparativoTYRDt.cs" />
+    <Compile Include="Tesoreria\RptListadoDepositosDt.cs" />
+    <Compile Include="Tesoreria\RptListadoApropiacionesDt.cs" />
+    <Compile Include="Tesoreria\RptComprobantesDT.cs" />
+    <Compile Include="Tesoreria\DepositoDt.cs" />
+    <Compile Include="Tesoreria\MonedaDt.cs" />
+    <Compile Include="PerfilDt.cs" />
+    <Compile Include="PermisosDt.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tesoreria\PartesDt.cs" />
+    <Compile Include="Tesoreria\RecuentoDt.cs" />
+    <Compile Include="Tesoreria\RendicionDt.cs" />
+    <Compile Include="Tesoreria\RptControlAuditoriaDt.cs" />
+    <Compile Include="Tesoreria\RptDetalleParteJornadaDt.cs" />
+    <Compile Include="Tesoreria\RptRecaudacionDt.cs" />
+    <Compile Include="TipoCuponDt.cs" />
+    <Compile Include="TipoListaDt.cs" />
+    <Compile Include="UsuarioDt.cs" />
+    <Compile Include="TarifaDt.cs" />
+    <Compile Include="TipoDiaHoraDt.cs" />
+    <Compile Include="Validacion\AnomaliasDt.cs" />
+    <Compile Include="Validacion\AutorizacionPasoDt.cs" />
+    <Compile Include="Validacion\CancelacionVentaDt.cs" />
+    <Compile Include="Validacion\CancelaTransitoDt.cs" />
+    <Compile Include="Validacion\ConfiguracionValidacionDt.cs" />
+    <Compile Include="Validacion\DACsDt.cs" />
+    <Compile Include="Validacion\EventoValidacionDt.cs" />
+    <Compile Include="Validacion\JornadaDt.cs" />
+    <Compile Include="Validacion\MotivoRechazoDt.cs" />
+    <Compile Include="Validacion\ParteValidacionDt.cs" />
+    <Compile Include="Validacion\RptConciliacionVentasDT.cs" />
+    <Compile Include="Validacion\RptFallosPeajistaDt.cs" />
+    <Compile Include="Validacion\RptObservacionesCajeroDt.cs" />
+    <Compile Include="Validacion\RptTransitosDT.cs" />
+    <Compile Include="Validacion\SIPsDt.cs" />
+    <Compile Include="Validacion\TagManualDt.cs" />
+    <Compile Include="Validacion\TicketManualDt.cs" />
+    <Compile Include="Validacion\TransitoNormalDt.cs" />
+    <Compile Include="Validacion\ValClientesDt.cs" />
+    <Compile Include="Validacion\ValCuentasDt.cs" />
+    <Compile Include="Validacion\ValEstacionesDt.cs" />
+    <Compile Include="Validacion\ValExentosDt.cs" />
+    <Compile Include="Validacion\ValPagoDiferidoDt.cs" />
+    <Compile Include="Validacion\ValPartesDt.cs" />
+    <Compile Include="Validacion\ValValesPrepagosDt.cs" />
+    <Compile Include="Validacion\ViolacionesDt.cs" />
+    <Compile Include="ViaDt.cs" />
+    <Compile Include="ViaInformacionDT.cs" />
+    <Compile Include="VideoDt.cs" />
+    <Compile Include="VISADt.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{221410F2-A91A-4A0D-8566-A17699F7201E}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Errores\Errores.csproj">
+      <Project>{13d948e7-2a42-4db9-8ad2-339eb7eb4494}</Project>
+      <Name>Errores</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitarios\Utilitarios.csproj">
+      <Project>{CB738AD2-022A-4FA7-A550-23EF70A775BF}</Project>
+      <Name>Utilitarios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,12 @@
+C:\Proyectos\PeajeMGO.Web\Entidades\bin\Debug\Entidades.dll
+C:\Proyectos\PeajeMGO.Web\Entidades\bin\Debug\Entidades.pdb
+C:\Proyectos\PeajeMGO.Web\Entidades\obj\Debug\Entidades.dll
+C:\Proyectos\PeajeMGO.Web\Entidades\obj\Debug\Entidades.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Entidades\bin\Debug\Entidades.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Entidades\obj\Debug\Entidades.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Entidades\obj\Debug\Entidades.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Entidades\bin\Debug\Entidades.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Entidades\obj\Debug\Entidades.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Entidades\obj\Debug\Entidades.pdb

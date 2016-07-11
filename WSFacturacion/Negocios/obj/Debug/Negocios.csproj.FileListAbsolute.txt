@@ -1,0 +1,45 @@
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Negocios.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Negocios.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Datos.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Entidades.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Errores.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Utilitarios.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\EntidadesSL.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Datos.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Entidades.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Errores.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\Utilitarios.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\bin\Debug\EntidadesSL.pdb
+C:\Proyectos\PeajeMGO.Web\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Proyectos\PeajeMGO.Web\Negocios\obj\Debug\Negocios.dll
+C:\Proyectos\PeajeMGO.Web\Negocios\obj\Debug\Negocios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\obj\Debug\Negocios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\obj\Debug\Negocios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Negocios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Negocios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Datos.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Entidades.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Errores.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Utilitarios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\EntidadesSL.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Datos.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Entidades.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Errores.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\Utilitarios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\Facturacion\Negocios\bin\Debug\EntidadesSL.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\obj\Debug\Negocios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\obj\Debug\Negocios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Negocios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Negocios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Datos.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Entidades.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Errores.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Utilitarios.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\EntidadesSL.dll
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Datos.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Entidades.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Errores.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\Utilitarios.pdb
+C:\Users\FJURADO.TELECTRONICA\Documents\Visual Studio 2013\Projects\WSFacturacion\WSFacturacion\Negocios\bin\Debug\EntidadesSL.pdb

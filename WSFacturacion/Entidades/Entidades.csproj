@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{221410F2-A91A-4A0D-8566-A17699F7201E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Telectronica.Peaje</RootNamespace>
+    <AssemblyName>Entidades</AssemblyName>
+    <SccProjectName>"%24/PeajeMGO.Web/Entidades", WLRMAAAA</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>MSSCCI:Microsoft Visual SourceSafe</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbandonoDeTroco.cs" />
+    <Compile Include="Accion.cs" />
+    <Compile Include="AdministradoraTags.cs" />
+    <Compile Include="AgrupacionDb.cs" />
+    <Compile Include="AlarmaConfiguracion.cs" />
+    <Compile Include="AlarmaRetiro.cs" />
+    <Compile Include="Alarmas.cs" />
+    <Compile Include="Archivo.cs" />
+    <Compile Include="ArchivoSubsidio.cs" />
+    <Compile Include="Auditoria.cs" />
+    <Compile Include="AuditoriaCodigo.cs" />
+    <Compile Include="BandaHoraria.cs" />
+    <Compile Include="BandaHorariaDetalle.cs" />
+    <Compile Include="BandaHorariaIntervalo.cs" />
+    <Compile Include="Bloque.cs" />
+    <Compile Include="CabeceraTicket.cs" />
+    <Compile Include="CambioSupervisor.cs" />
+    <Compile Include="CarrilStatus.cs" />
+    <Compile Include="CategoriaDAC.cs" />
+    <Compile Include="CategoriaFormaPago.cs" />
+    <Compile Include="CategoriaManual.cs" />
+    <Compile Include="Autorizacion.cs" />
+    <Compile Include="CausaCierre.cs" />
+    <Compile Include="CausaSupervision.cs" />
+    <Compile Include="ClaveEvento.cs" />
+    <Compile Include="CodAutorizacionElectronica.cs" />
+    <Compile Include="CodigoAperturaBarrera.cs" />
+    <Compile Include="CodigoDeCancelacion.cs" />
+    <Compile Include="CodigoDeSimulacion.cs" />
+    <Compile Include="Comuna.cs" />
+    <Compile Include="ConfigMaestroDeAlarmas.cs" />
+    <Compile Include="ConfiguracionTributaria.cs" />
+    <Compile Include="CodigoComando.cs" />
+    <Compile Include="Comando.cs" />
+    <Compile Include="ComentarioSupervisor.cs" />
+    <Compile Include="ConfiguracionClienteGrafico.cs" />
+    <Compile Include="EmisoresTag.cs" />
+    <Compile Include="Facturacion\Estados.cs" />
+    <Compile Include="ExentoMotivo.cs" />
+    <Compile Include="Facturacion\FacturaXML.cs" />
+    <Compile Include="Facturacion\FacturaXMLItem.cs" />
+    <Compile Include="Facturacion\MarcaLector.cs" />
+    <Compile Include="FormatoTicket.cs" />
+    <Compile Include="GrupoEstaciones.cs" />
+    <Compile Include="Imagen.cs" />
+    <Compile Include="LogActividad.cs" />
+    <Compile Include="ModoDelParte.cs" />
+    <Compile Include="OSAsCambioTarifa.cs" />
+    <Compile Include="OSAsListaNegra.cs" />
+    <Compile Include="OSAsProtocoloFinanciero.cs" />
+    <Compile Include="OSAsProtocoloTecnico.cs" />
+    <Compile Include="OSAsSecuencia.cs" />
+    <Compile Include="OSAsTag.cs" />
+    <Compile Include="OSAsTarifa.cs" />
+    <Compile Include="OSAsTransito.cs" />
+    <Compile Include="TarifaAutorizacionPasoTipoVencimiento.cs" />
+    <Compile Include="Tesoreria\EstadoDeposito.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaAjuste.cs" />
+    <Compile Include="TipoTicket.cs" />
+    <Compile Include="ValePedagio.cs" />
+    <Compile Include="Visa.cs" />
+    <Compile Include="PagoDiferido.cs" />
+    <Compile Include="RangosTag.cs" />
+    <Compile Include="SentidoCirculacion.cs" />
+    <Compile Include="SimulacionDePaso.cs" />
+    <Compile Include="Site.cs" />
+    <Compile Include="StatusTratamiento.cs" />
+    <Compile Include="Subestacion.cs" />
+    <Compile Include="TecnoTag.cs" />
+    <Compile Include="Tesoreria\EstadoFondoDeCambio.cs" />
+    <Compile Include="Tesoreria\EstadoReposicion.cs" />
+    <Compile Include="Tesoreria\EstadoRetiros.cs" />
+    <Compile Include="Tesoreria\FondoDeCambio.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaDetalleCupon.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaDetalleTipoCupon.cs" />
+    <Compile Include="Tesoreria\ReposicionPedida.cs" />
+    <Compile Include="Tesoreria\TipoDeReposicion.cs" />
+    <Compile Include="TipoAutorizacionExento.cs" />
+    <Compile Include="TipoComprobante.cs" />
+    <Compile Include="TipoCupon.cs" />
+    <Compile Include="DiaSemana.cs" />
+    <Compile Include="DisplayEfectos.cs" />
+    <Compile Include="DisplayVelocidad.cs" />
+    <Compile Include="EstacionConfiguracion.cs" />
+    <Compile Include="EventoPerfil.cs" />
+    <Compile Include="ExentoCodigo.cs" />
+    <Compile Include="ExentoEstacion.cs" />
+    <Compile Include="Facturacion\AgrupacionCuenta.cs" />
+    <Compile Include="Facturacion\CambioVendedor.cs" />
+    <Compile Include="Facturacion\Chip.cs" />
+    <Compile Include="Facturacion\ChipListaNegra.cs" />
+    <Compile Include="Facturacion\Cliente.cs" />
+    <Compile Include="Facturacion\CobroACuenta.cs" />
+    <Compile Include="Facturacion\ConfiguracionClienteFacturacion.cs" />
+    <Compile Include="Facturacion\LectorChip.cs" />
+    <Compile Include="Facturacion\Cuenta.cs" />
+    <Compile Include="Facturacion\CuentaEstacion.cs" />
+    <Compile Include="Facturacion\EntregaChip.cs" />
+    <Compile Include="Facturacion\EntregaTag.cs" />
+    <Compile Include="Facturacion\Factura.cs" />
+    <Compile Include="Facturacion\FacturaItem.cs" />
+    <Compile Include="Facturacion\Fallos.cs" />
+    <Compile Include="Facturacion\Impresora.cs" />
+    <Compile Include="Facturacion\Impuesto.cs" />
+    <Compile Include="Facturacion\NotaCredito.cs" />
+    <Compile Include="Facturacion\Operacion.cs" />
+    <Compile Include="Facturacion\SaldoPrepago.cs" />
+    <Compile Include="Facturacion\PrepagoConfiguracion.cs" />
+    <Compile Include="Facturacion\Provincia.cs" />
+    <Compile Include="Facturacion\RecargaPosible.cs" />
+    <Compile Include="Facturacion\RecargaSupervision.cs" />
+    <Compile Include="Facturacion\Tag.cs" />
+    <Compile Include="Facturacion\TagListaNegra.cs" />
+    <Compile Include="Facturacion\TarjetaChip.cs" />
+    <Compile Include="Facturacion\TerminalFacturacion.cs" />
+    <Compile Include="Facturacion\TerminalFacturacionFisica.cs" />
+    <Compile Include="Facturacion\TipoCuenta.cs" />
+    <Compile Include="Facturacion\TipoDocumento.cs" />
+    <Compile Include="Facturacion\TipoFactura.cs" />
+    <Compile Include="Facturacion\TipoItemVenta.cs" />
+    <Compile Include="Facturacion\TipoIVA.cs" />
+    <Compile Include="Facturacion\ValePrepagoHabilitacion.cs" />
+    <Compile Include="Facturacion\ValePrepagoListaNegra.cs" />
+    <Compile Include="Facturacion\ValePrepagoPersonalizacion.cs" />
+    <Compile Include="Facturacion\Vehiculo.cs" />
+    <Compile Include="Facturacion\VehiculoColor.cs" />
+    <Compile Include="Facturacion\VehiculoHabilitado.cs" />
+    <Compile Include="Facturacion\VehiculoInfo.cs" />
+    <Compile Include="Facturacion\VehiculoMarca.cs" />
+    <Compile Include="Facturacion\VehiculoModelo.cs" />
+    <Compile Include="Facturacion\ValePrepagoVenta.cs" />
+    <Compile Include="Feriado.cs" />
+    <Compile Include="FormaPago.cs" />
+    <Compile Include="GestionConfiguracion.cs" />
+    <Compile Include="InfoEvento.cs" />
+    <Compile Include="ListaActualizacion.cs" />
+    <Compile Include="ListaActualizacionModo.cs" />
+    <Compile Include="ListaActualizacionTipoLista.cs" />
+    <Compile Include="Facturacion\MedioPagoConfiguracion.cs" />
+    <Compile Include="ListaAutorizacionDetalle.cs" />
+    <Compile Include="CambioAutorizacionSRI.cs" />
+    <Compile Include="ListaContable.cs" />
+    <Compile Include="ListaFacturas.cs" />
+    <Compile Include="ListaFacturasDetalle.cs" />
+    <Compile Include="ListaPuntosVenta.cs" />
+    <Compile Include="ListaTarjetasRUTA.cs" />
+    <Compile Include="ListaTarjetasTAPI.cs" />
+    <Compile Include="MensajePredefinido.cs" />
+    <Compile Include="Display.cs" />
+    <Compile Include="MensajeRecibidoVia.cs" />
+    <Compile Include="StringEnum.cs" />
+    <Compile Include="Tesoreria\Apropiacion.cs" />
+    <Compile Include="Tesoreria\BolsaApropiacion.cs" />
+    <Compile Include="Tesoreria\RecuentosDepositos.cs" />
+    <Compile Include="Tesoreria\Recuento.cs" />
+    <Compile Include="TarjetaTAPI.cs" />
+    <Compile Include="Tesoreria\BolsaDeposito.cs" />
+    <Compile Include="Tesoreria\Deposito.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaDetalleMoneda.cs" />
+    <Compile Include="Nivel2.cs" />
+    <Compile Include="ReferenciaFK.cs" />
+    <Compile Include="Tarifa.cs" />
+    <Compile Include="TarifaAutorizacionPaso.cs" />
+    <Compile Include="TarifaAutorizacionPasoFormaDescuento.cs" />
+    <Compile Include="TarifaDetalle.cs" />
+    <Compile Include="Tesoreria\ConfiguracionClienteTesoreria.cs" />
+    <Compile Include="Tesoreria\Cotizacion.cs" />
+    <Compile Include="Tesoreria\CotizacionDetalle.cs" />
+    <Compile Include="Tesoreria\Denominacion.cs" />
+    <Compile Include="Tesoreria\Moneda.cs" />
+    <Compile Include="Estacion.cs" />
+    <Compile Include="PasswordConfiguracion.cs" />
+    <Compile Include="Perfil.cs" />
+    <Compile Include="PerfilJerarquia.cs" />
+    <Compile Include="PerfilNivel.cs" />
+    <Compile Include="Tesoreria\MovimientoCaja.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaDenominacionTotal.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaDetalle.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaLiquidacion.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaReposicion.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaRetiro.cs" />
+    <Compile Include="Tesoreria\MovimientoCajaTicketsAbortados.cs" />
+    <Compile Include="Tesoreria\Parte.cs" />
+    <Compile Include="Tesoreria\ParteReposicion.cs" />
+    <Compile Include="Tesoreria\PartesTotales.cs" />
+    <Compile Include="Tesoreria\RecuentoDetalle.cs" />
+    <Compile Include="Tesoreria\UsuarioParte.cs" />
+    <Compile Include="TipoDeSonido.cs" />
+    <Compile Include="TipoDiaHora.cs" />
+    <Compile Include="TipoEvento.cs" />
+    <Compile Include="TipoLista.cs" />
+    <Compile Include="TipoPago.cs" />
+    <Compile Include="TipoPersonal.cs" />
+    <Compile Include="Toolbar.cs" />
+    <Compile Include="TurnoTrabajo.cs" />
+    <Compile Include="UsuarioEstacion.cs" />
+    <Compile Include="Observacion.cs" />
+    <Compile Include="Permiso.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="TarifaDiferenciada.cs" />
+    <Compile Include="Validacion\Anomalia.cs" />
+    <Compile Include="Validacion\AnomaliaValidacion.cs" />
+    <Compile Include="Validacion\CodigoValidacion.cs" />
+    <Compile Include="Validacion\CodigoValidacionFormaPago.cs" />
+    <Compile Include="Validacion\ConfigValidacion.cs" />
+    <Compile Include="Validacion\Controles.cs" />
+    <Compile Include="Validacion\Jornada.cs" />
+    <Compile Include="Validacion\Log.cs" />
+    <Compile Include="Validacion\MotivoRechazo.cs" />
+    <Compile Include="Validacion\ParteValidacion.cs" />
+    <Compile Include="Validacion\ProblemasCierreJornada.cs" />
+    <Compile Include="Validacion\TicketManual.cs" />
+    <Compile Include="ViaDefinicion.cs" />
+    <Compile Include="ViaDetectorEje.cs" />
+    <Compile Include="ViaInformacion.cs" />
+    <Compile Include="ViaModelos.cs" />
+    <Compile Include="ViaModo.cs" />
+    <Compile Include="ViaRuedasDuales.cs" />
+    <Compile Include="ViaSentidoCirculacion.cs" />
+    <Compile Include="ViaStatus.cs" />
+    <Compile Include="ViasTotales.cs" />
+    <Compile Include="ViaVideo.cs" />
+    <Compile Include="VideoAccion.cs" />
+    <Compile Include="VideoAccionCodigo.cs" />
+    <Compile Include="VideoCantidades.cs" />
+    <Compile Include="VideoCategoria.cs" />
+    <Compile Include="VideoConfiguracion.cs" />
+    <Compile Include="VideoConfiguracionAlmacenamiento.cs" />
+    <Compile Include="VideoConfiguracionModelo.cs" />
+    <Compile Include="VideoEvento.cs" />
+    <Compile Include="VideoEventoCodigo.cs" />
+    <Compile Include="VideoPath.cs" />
+    <Compile Include="Zona.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
